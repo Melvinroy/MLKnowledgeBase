@@ -1,0 +1,7 @@
+pandas
+numpy
+seaborn
+Scikit-Learn
+
+# helps to execute the requriements file automatically 
+-e .
