@@ -6,3 +6,5 @@ To create virtual environments
 
 To activate:
 <!-- conda activate venv -->
+
+# Add all the syntax
